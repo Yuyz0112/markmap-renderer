@@ -10,6 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lz-string": "^1.5.0",
+    "markmap-common": "^0.16.0",
+    "markmap-lib": "^0.16.0",
+    "markmap-toolbar": "^0.16.0",
+    "markmap-view": "^0.16.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
